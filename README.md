@@ -1,0 +1,4 @@
+newProject
+==========
+
+my new project
